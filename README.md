@@ -16,10 +16,10 @@
 ### Para me conhecer um pouco mais, me siga nas redes abaixo!
 
 <div>
-  <a href="https://www.linkedin.com/in/allan-machado-012951265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://www.instagram.com/allanmachad0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.facebook.com/allandmachado" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
-  <a href="mailto:allanmachadodev@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/allan-machado-012951265/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.instagram.com/allanmachad0/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.facebook.com/allandmachado" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
+  <a href="mailto:allanmachadodev@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"</a>
 
   ![Snake animation](https://github.com/allandmachado/allandmachado/blob/output/github-contribution-grid-snake.svg)
 
